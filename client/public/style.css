@@ -1,0 +1,20 @@
+.form {
+    margin: auto;
+    padding: 15px;
+    border: 1px black solid;
+    width: fit-content;
+    background-color: ghostwhite;
+}
+
+.form > * {
+    margin: 10px auto;
+    font-size: 20px;
+}
+
+.formBtn {
+    background-color: #1c3455;
+    font-weight: bold;
+    color: #fff;
+    padding: 5px 10px;
+    cursor: pointer;
+}

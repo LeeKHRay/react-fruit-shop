@@ -1,0 +1,8 @@
+[
+    {"id": 1, "name": "Apple", "price": 5, "image": "apple.jpg", "description": "fresh apple"},
+    {"id": 2, "name": "Orange", "price": 3, "image": "orange.jpg", "description": "juicy orange"}, 
+    {"id": 3, "name": "Mango", "price": 4, "image": "mango.jpg", "description": "suitable to make dessert"}, 
+    {"id": 4, "name": "Watermelon", "price": 20, "image": "watermelon.jpg", "description": "summer essential"}, 
+    {"id": 5, "name": "Blueberry", "price": 10, "image": "blueberry.jpg", "description": "good for eyes"}, 
+    {"id": 6, "name": "Banana", "price": 7, "image": "banana.jpg", "description": "good source of vitamin C"}
+]
